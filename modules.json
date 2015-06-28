@@ -1,8 +1,8 @@
 {
-	"format-version" : "0.0.1"
+	"format-version" : "0.0.1",
 	"last-update": "2015-06-28",
 	"modules": {
 		"store-equipment": "https://raw.githubusercontent.com/SourceMod-Store/Module-Versions/master/item-modules/store-equipment.json",
-		"store-trails": "https://raw.githubusercontent.com/SourceMod-Store/Module-Versions/master/item-modules/store-trails.json",
+		"store-trails": "https://raw.githubusercontent.com/SourceMod-Store/Module-Versions/master/item-modules/store-trails.json"
 	}
 }
