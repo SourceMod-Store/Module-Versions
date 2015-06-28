@@ -1,0 +1,11 @@
+{
+	"name" : "store-trails",
+	"display-name": "Store Equipment",
+	"description": "Allows players to buy custom trails",
+	"author": "Alongub",
+	"tags": ["item-module"],
+	"current-version": "1.1.0",
+	"min-store-version": "1.0.0",
+	"max-store-version": "3.0.0",
+	"link": "https://forums.alliedmods.net/showthread.php?t=208126"
+}
