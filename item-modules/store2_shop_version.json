@@ -1,0 +1,11 @@
+{
+	"name" : "store2_shop_version",
+	"display-name": "Store Shop",
+	"description": "Shop module for the Sourcemod Store.",
+	"author": "Drixevel",
+	"tags": ["core-module"],
+	"current-version": "2.0.0",
+	"min-store-version": "2.0.0",
+	"max-store-version": "2.0.0",
+	"link": ""
+}

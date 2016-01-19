@@ -1,7 +1,15 @@
 {
-	"format-version" : "0.0.2",
-	"modules": {
-		"store-equipment": "https://raw.githubusercontent.com/SourceMod-Store/Module-Versions/master/item-modules/store-equipment.json",
-		"store-trails": "https://raw.githubusercontent.com/SourceMod-Store/Module-Versions/master/item-modules/store-trails.json"
+	"format-version" : "0.0.3",
+	"modules-links": {
+		"store2_backend_version":"https://raw.githubusercontent.com/SourceMod-Store/Module-Versions/master/item-modules/store2_backend_version.json",
+		"store2_core_version":"https://raw.githubusercontent.com/SourceMod-Store/Module-Versions/master/item-modules/store2_core_version.json",		
+		"store2_distributor_version":"https://raw.githubusercontent.com/SourceMod-Store/Module-Versions/master/item-modules/store2_distributor_version.json",
+		"store2_gifting_version":"https://raw.githubusercontent.com/SourceMod-Store/Module-Versions/master/item-modules/store2_gifting_version.json",
+		"store2_inventory_version":"https://raw.githubusercontent.com/SourceMod-Store/Module-Versions/master/item-modules/store2_inventory_version.json",
+		"store2_loadouts_version":"https://raw.githubusercontent.com/SourceMod-Store/Module-Versions/master/item-modules/store2_loadouts_version.json",
+		"store2_logging_version":"https://raw.githubusercontent.com/SourceMod-Store/Module-Versions/master/item-modules/store2_logging_version.json",
+		"store2_refunds_version":"https://raw.githubusercontent.com/SourceMod-Store/Module-Versions/master/item-modules/store2_refunds_version.json",
+		"store2_shop_version":"https://raw.githubusercontent.com/SourceMod-Store/Module-Versions/master/item-modules/store2_shop_version.json",
+		"store2_trading_version":"https://raw.githubusercontent.com/SourceMod-Store/Module-Versions/master/item-modules/store2_trading_version.json"	
 	}
 }
