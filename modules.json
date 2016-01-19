@@ -1,6 +1,6 @@
 {
 	"format-version" : "0.0.3",
-	"last_update" : "19.01.2016",
+	"last_update" : "17.01.2016",
 	"modules-links": {
 		"store2_backend_version":"https://raw.githubusercontent.com/SourceMod-Store/Module-Versions/master/item-modules/store2_backend_version.json",
 		"store2_core_version":"https://raw.githubusercontent.com/SourceMod-Store/Module-Versions/master/item-modules/store2_core_version.json",		
